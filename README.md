@@ -152,4 +152,4 @@ state. `i2c-app.c` relies on this and skips `uart_init()` entirely.
 
 ## License
 
-Add a `LICENSE` file (MIT, Apache-2.0, etc.) — none specified yet.
+MIT — free to use, modify, and share.
